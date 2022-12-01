@@ -1,0 +1,16 @@
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\bin\Release\Designer Launcher.exe.config
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\bin\Release\Designer Launcher.exe
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\bin\Release\Designer Launcher.pdb
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer Launcher.csproj.AssemblyReference.cache
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\MainWindow.g.cs
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\App.g.cs
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer Launcher_MarkupCompile.cache
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer Launcher_MarkupCompile.lref
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\MainWindow.baml
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer Launcher.g.resources
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer_Launcher.Properties.Resources.resources
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer Launcher.csproj.GenerateResource.cache
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer Launcher.csproj.CoreCompileInputs.cache
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer Launcher.exe
+C:\Users\GBC03\source\repos\Designer Launcher\Designer Launcher\obj\Release\Designer Launcher.pdb

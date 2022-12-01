@@ -23,11 +23,24 @@ namespace Designer_Launcher
         public MainWindow()
         {
             InitializeComponent();
+            Color color = (Color)ColorConverter.ConvertFromString("#38373d");
+            Opt_Area.Background = new SolidColorBrush(color);
         }
         private void Border_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
             this.DragMove();
         }
-
+        private void WinClose(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+        private void WinMin(object sender, RoutedEventArgs e) 
+        {
+            this.WindowState = WindowState.Minimized; 
+        }
+        private void Bg_RGB(object sender, RoutedEventArgs e)
+        {
+            this.Background = new SolidColorBrush(Color.FromArgb(255, 56, 55, 61));
+        }
     }
 }
