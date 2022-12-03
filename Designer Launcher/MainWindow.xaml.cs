@@ -23,8 +23,12 @@ namespace Designer_Launcher
         public MainWindow()
         {
             InitializeComponent();
-            Color color = (Color)ColorConverter.ConvertFromString("#38373d");
-            Opt_Area.Background = new SolidColorBrush(color);
+            Color colorR = (Color)ColorConverter.ConvertFromString("#fe5e56");
+            Color colorY = (Color)ColorConverter.ConvertFromString("#febb2e");
+            Color colorG = (Color)ColorConverter.ConvertFromString("#27c73f");
+            CloseButton.Fill = new SolidColorBrush(colorR);
+            MinimizeButton.Fill = new SolidColorBrush(colorY);
+            MaximizeButton.Fill = new SolidColorBrush(colorG);
         }
         private void Border_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
@@ -38,9 +42,6 @@ namespace Designer_Launcher
         {
             this.WindowState = WindowState.Minimized; 
         }
-        private void Bg_RGB(object sender, RoutedEventArgs e)
-        {
-            this.Background = new SolidColorBrush(Color.FromArgb(255, 56, 55, 61));
-        }
+        
     }
 }
